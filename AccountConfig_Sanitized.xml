@@ -1,0 +1,16 @@
+﻿<Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04">
+  <Obj RefId="0">
+    <TN RefId="0">
+      <T>Deserialized.System.Management.Automation.PSCustomObject</T>
+      <T>Deserialized.System.Object</T>
+    </TN>
+    <MS>
+      <S N="Username">placeholder</S>
+      <S N="Password">placeholder=</S>
+      <S N="AltUsername">placeholder</S>
+      <S N="AltPassword">placeholder=</S>
+      <S N="Input">\\placeholder\Import\Switches.csv</S>
+      <S N="Output">\\placeholder\Switches</S>
+    </MS>
+  </Obj>
+</Objs>
