@@ -5,7 +5,7 @@
 
 # Define paths to Config Files
 $SMTPConfigPath = "\\<placeholder>\\Config\\smtpconfig.xml"
-$SwitchBackupConfigPath = "\\<placeholder>\\Config\\switchbackup-accountconfig.xml"
+$SwitchBackupConfigPath = "\\<placeholder>\\Config\\accountconfig.xml"
 
 # Set the Key Path
 $KeyPath = "\\<placeholder>\\Storage\\encryption.key"
